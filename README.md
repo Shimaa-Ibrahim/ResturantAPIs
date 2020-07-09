@@ -3,7 +3,7 @@
 Restaurant web applicaion.
 ## Built With
 - [Spring Boot](https://spring.io/projects/spring-boot) - REST APIs backend
-- [AngularJS](https://angular.io) - Frontend 
+- [Angular](https://angular.io) - Frontend 
 - [Spring Data](https://spring.io/projects/spring-data) - Data access
 - [MySQL](https://www.mysql.com) - DataBase
   
@@ -58,7 +58,7 @@ User should use Email to login to the system.
     - Two tables that can accommodate a max of 10 persons.
 
 
-### AngularJS
+### Angular
 The web application frontend run on port:4200.
   - version 8.3.28
   - 
